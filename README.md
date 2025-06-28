@@ -17,7 +17,7 @@
 - UX/UI Design Principles  
 
 ### 🌟 My Mission:
-> To break generational curses, build generational wealth, and bring my boldest dreams to life — one clean line of code at a time.
+> To build a meaningful career that blends creativity, technology, and purpose — while opening doors for others and leading with impact.
 
 ### 🎯 Next Milestone:
-Complete **Per Scholas Pre-Work** → Ace the **Interview** → Build My **Empire**
+Complete **Per Scholas Pre-Work** → Ace the **Interview** → Achieve My **Vision**
