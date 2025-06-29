@@ -8,7 +8,6 @@
 - Learning Full-Stack Web Development  
 - Building projects that solve real-world problems  
 - Preparing for a career in Software Engineering + NLP/ML  
-- Launching a boutique clothing store & elegant event space business  
 
 ### 🛠️ Core Skills (In Progress):
 - HTML • CSS • JavaScript  
@@ -21,3 +20,9 @@
 
 ### 🎯 Next Milestone:
 Complete **Per Scholas Pre-Work** → Ace the **Interview** → Achieve My **Vision**
+
+---
+
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Coming_Soon-lightgrey?style=for-the-badge&logo=google-chrome)](#)  
+[![GitHub Badge](https://img.shields.io/badge/GitHub-CodedByKay-blue?style=for-the-badge&logo=github)](https://github.com/Codedbykay-)  
+[![Let's Connect Badge](https://img.shields.io/badge/Let's_Connect-Email_Me-purple?style=for-the-badge&logo=gmail)](mailto:keyrisdiaz@gmail.com)
