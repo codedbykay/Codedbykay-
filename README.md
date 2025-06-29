@@ -8,6 +8,7 @@
 - Learning Full-Stack Web Development  
 - Building projects that solve real-world problems  
 - Preparing for a career in Software Engineering + NLP/ML  
+- Growing my portfolio with front-end and boutique-focused builds  
 
 ### 🛠️ Core Skills (In Progress):
 - HTML • CSS • JavaScript  
@@ -16,13 +17,7 @@
 - UX/UI Design Principles  
 
 ### 🌟 My Mission:
-> To build a meaningful career that blends creativity, technology, and purpose — while opening doors for others and leading with impact.
+> To build a meaningful career that aligns with my values, sharpens my skills, and empowers me to create work I’m proud of — while growing into the developer I’m meant to be.
 
 ### 🎯 Next Milestone:
 Complete **Per Scholas Pre-Work** → Ace the **Interview** → Achieve My **Vision**
-
----
-
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Coming_Soon-lightgrey?style=for-the-badge&logo=google-chrome)](#)  
-[![GitHub Badge](https://img.shields.io/badge/GitHub-CodedByKay-blue?style=for-the-badge&logo=github)](https://github.com/Codedbykay-)  
-[![Let's Connect Badge](https://img.shields.io/badge/Let's_Connect-Email_Me-purple?style=for-the-badge&logo=gmail)](mailto:keyrisdiaz@gmail.com)
