@@ -2,7 +2,7 @@
 
 **Name:** Kay  
 **Title:** Creative Developer in Training  
-**Vibe:** Bold • Clean • Chic • Power-Minded  
+**Vibe:** Bold • Clean • Chic • Vision-Driven  
 
 ### 💼 Current Focus:
 - Learning Full-Stack Web Development  
